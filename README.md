@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalhando em **projetos pessoais**
 - 🌱 Estudando **Java POO**
 - 📚 Estudando **Técnico em Desenvolvimento de Sistemas/Senac-RS**
-- 📫 Como chegar até mim: viniciushenriqu-e3344@gmail.com
+- 📫 Como chegar até mim: viniciushenrique3344@gmail.com
 - 🔎 Curiosidade em *Back-End/Mobile*
 
 <div>
