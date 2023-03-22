@@ -6,7 +6,7 @@
   •📫 Como chegar até mim: viniciushenriqu-e3344@gmail.com
   •🔎 Curiosidade: Backend/Mobile
 
-<div align="center">
+<div>
   <a href="https://github.com/VinoOliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinoOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private="false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinoOliveira&layout=compact&langs_count=7&theme=dracula"/>
