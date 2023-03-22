@@ -1,10 +1,10 @@
 ## Oi! eu sou o Vinícius
 
--🔭 Atualmente estou trabalhando em projetos pessoais 
--🌱 Atualmente estou aprendendo Java 
--📚 Técnico em Desenvolvimento de Sistemas/Senac-RS
--📫 Como chegar até mim: viniciushenriqu-e3344@gmail.com
--🔎 Curiosidade: Backend/Mobile
+  •🔭 Atualmente estou trabalhando em projetos pessoais 
+  •🌱 Atualmente estou aprendendo Java 
+  •📚 Técnico em Desenvolvimento de Sistemas/Senac-RS
+  •📫 Como chegar até mim: viniciushenriqu-e3344@gmail.com
+  •🔎 Curiosidade: Backend/Mobile
 
 <div align="center">
   <a href="https://github.com/VinoOliveira">
