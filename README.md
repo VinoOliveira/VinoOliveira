@@ -1,7 +1,7 @@
 ### Oi! eu sou o Vinícius
 
 - 🔭 Atualmente trabalhando em **projetos pessoais**
-- 🌱 Estudando **Java POO**
+- 🌱 Estudando **Spring Boot**
 - 📚 Estudando **Desenvolvimento de Sistemas/Senac-RS**
 - 📫 Como chegar até mim: viniciushenrique3344@gmail.com
 - 🔎 Curiosidade em *Back-End/Mobile*
