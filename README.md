@@ -6,7 +6,6 @@ Olá! Sou o Vinicius, estudante de desenvolvimente de sistemas há um ano e meio
 ### Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vin%C3%ADcius-henrique-sousa-de-oliveira-65484a23b/)
 [![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail)](mailto:viniciushenrique3344@gmail.com)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/viniciushenrique3344/)
 
 ### Tecnologias:
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
