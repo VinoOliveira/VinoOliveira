@@ -2,7 +2,7 @@
 
 
 ### Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vin%C3%ADcius-henrique-sousa-de-oliveira-65484a23b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vinicius-henrique-oliveira-99463a350/)
 [![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail)](mailto:viniciushenrique3344@gmail.com)
 
 ### Tecnologias:
